@@ -1,3 +1,8 @@
+-=(mc-2g-1024_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # mc-2g-1024
 
 ## General description
@@ -55,3 +60,4 @@ volume number)
 * [CP/M 2.2 Operating System Manual](http://www.cpm.z80.de/manuals/cpm22-m.pdf)
 * [MP/M II User guide](http://www.cpm.z80.de/manuals/mpm2ug.pdf)
 * [The humongous CP/M Software archives](http://www.classiccmp.org/cpmarchives/)
+
